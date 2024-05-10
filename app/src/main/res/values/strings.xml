@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Navigation Rail</string>
+    <string name="floating_action_button">Floating Action</string>
+    <string name="home">Home</string>
+    <string name="message">Message</string>
+    <string name="alarm">Alarm</string>
+    <string name="settings">Settings</string>
+    <string name="selected">Selected %1$s</string>
+    <string name="reselected">Reselected %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="alarm_fragment">Alarm Fragment</string>
+    <string name="settings_fragment">Settings Fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="message_fragment">Message Fragment</string>
+</resources>

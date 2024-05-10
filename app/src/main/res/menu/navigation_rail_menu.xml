@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/baseline_home_24"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/message"
+        android:enabled="true"
+        android:icon="@drawable/baseline_chat_bubble_24"
+        android:title="@string/message"/>
+    <item
+        android:id="@+id/alarm"
+        android:enabled="true"
+        android:icon="@drawable/baseline_access_alarm_24"
+        android:title="@string/alarm"/>
+    <item
+        android:id="@+id/settings"
+        android:enabled="true"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="@string/settings"/>
+</menu>
